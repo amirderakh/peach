@@ -22,5 +22,9 @@
             "server": "3x Ubuntu 20.04 LTS servers running in Europe, non-AWS",
             "company": "Our focus is on creating high quality products at an affordable price #PeachPool"
         }
-    }
+    },
+    "my-pool-ids": {
+        "0": "5df46b9796868647647f6d3a4ebd188920e70cd12720513337203b62",
+        "1": ""
+      }
   }

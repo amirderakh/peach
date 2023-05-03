@@ -15,11 +15,11 @@
             "github_handle": "amirderakh"
         },
         "company": {
-            "name": "numic.eu"
+            "name": "numic.au"
         },
         "about": {
             "me": "",
-            "server": "3x Ubuntu 20.04 LTS servers running in Europe & USA, non-AWS",
+            "server": "Ubuntu 22 servers running in Australia",
             "company": "Numic is a quantitative investment management company trading in global financial markets"
         }
     },
